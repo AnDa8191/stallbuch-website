@@ -1,0 +1,51 @@
+# Stallbuch
+
+> Pflichten und Praxiswissen für Hobby-Geflügelhalter in Deutschland (Hühner, Enten, Gänse, Puten, Wachteln, Tauben) und die App Stallbuch. Recherchiert am 17.10.2026, mit Quellen auf jeder Seite. Ohne Gewähr, keine Rechtsauskunft.
+
+## Kernfakten
+- Anmeldung: Geflügelhaltung vor Beginn beim Veterinäramt anzeigen, ab dem ersten Tier, auch Tauben und Wachteln (§ 26 ViehVerkV). Registriernummer 12-stellig, oft mit Präfix 276.
+- Bestandsregister: Pflicht für jeden Geflügelhalter (§ 2 Abs. 2 GeflPestSchV), Zu- und Abgänge mit Datum, Art, Name und Anschrift des bisherigen/künftigen Halters und Transporteurs; 3 Jahre aufbewahren; Tauben ausgenommen.
+- Newcastle-Impfung: Pflicht für Hühner und Puten unabhängig von der Bestandsgröße (§ 7 GeflPestV 2005). Lebendimpfstoff laut Hersteller alle 6–8 Wochen (Puten 3–4), Inaktivat per Injektion etwa ein Jahr. Nachweise 5 Jahre aufbewahren (§ 95a TAMG).
+- Tierseuchenkasse: in 13 von 16 Bundesländern jährliche Meldung auch für Kleinbestände; Stichtag meist 1. oder 3. Januar.
+- Stallpflicht: Anordnung durch den Landkreis per Allgemeinverfügung (§ 13 GeflPestSchV), gilt auch für Hobbyhalter; dichte Abdeckung, Netz max. 25 mm Maschenweite.
+- Eierverkauf: Abgabe an Verbraucher bis Tag 28 nach dem Legen (§ 22 Abs. 3 Tier-LMHV), MHD max. 28 Tage; die alte 21-Tage-Frist gilt seit 12/2022 nicht mehr. Unter 350 Hennen ab Hof ohne Erzeugercode.
+- Brutdauer: Huhn 21 Tage, Ente 28 Tage, Gans 30 Tage, Pute 28 Tage, Wachtel 17 Tage, Taube 18 Tage.
+
+## Ratgeber
+- [Hühner anmelden: Veterinäramt und Registriernummer](https://www.stallbuch-app.de/huehner-anmelden/): Wo, wann und wie du deine Hühner anmeldest – auch bei drei Tieren im Garten.
+- [Bestandsregister für Geflügel führen](https://www.stallbuch-app.de/bestandsregister/): Was ins Register gehört, wie lange du es aufbewahrst und eine kostenlose Vorlage.
+- [Newcastle-Impfung bei Hühnern](https://www.stallbuch-app.de/newcastle-impfung/): Pflicht für Hühner und Puten: Intervalle je Impfstoff, Selbstimpfung, Nachweise.
+- [Tierseuchenkasse: Hühner melden](https://www.stallbuch-app.de/tierseuchenkasse/): Stichtag, Frist und Beitrag in allen 16 Bundesländern.
+- [Stallpflicht bei Geflügelpest](https://www.stallbuch-app.de/stallpflicht/): Was die Aufstallungspflicht für Hobbyhalter bedeutet und wo sie steht.
+- [Eier verkaufen als Hobbyhalter](https://www.stallbuch-app.de/eier-verkaufen/): Bis wann du Eier abgeben darfst, MHD, Erzeugercode und Kennzeichnung.
+- [Brutrechner und Brutdauer](https://www.stallbuch-app.de/brutrechner/): Schlupftermin, Schiertage und Schlupfruhe für Huhn, Ente, Gans, Pute, Wachtel und Taube.
+- [Wartezeit für Eier nach Medikamenten](https://www.stallbuch-app.de/wartezeit-eier/): Wie die Wartezeit berechnet wird und was du dokumentieren musst.
+- [Vorlage Bestandsregister zum Ausdrucken](https://www.stallbuch-app.de/bestandsregister-vorlage/)
+
+## Tierseuchenkasse nach Bundesland
+- [Baden-Württemberg](https://www.stallbuch-app.de/tierseuchenkasse/baden-wuerttemberg/): Stichtag 1. Januar. Bis 25 Hühner/Puten (ohne andere beitragspflichtige Tiere) derzeit befreit. Enten und Gänse nicht meldepflichtig. Sonst Meldung bis 15. Januar, online (webTSK) oder per Formular.
+- [Bayern](https://www.stallbuch-app.de/tierseuchenkasse/bayern/): Stichtag 1. Januar. Meldepflicht ab dem ersten Huhn bzw. Truthuhn (Enten, Gänse, Wachteln nicht). Meldung bis 20. Januar, online im Tierhalter-Login oder per Post. Mindestbeitrag 9 €.
+- [Berlin](https://www.stallbuch-app.de/tierseuchenkasse/berlin/): Stichtag keiner. Derzeit keine Beiträge und keine Meldepflicht; eine freiwillige Meldung wird empfohlen.
+- [Brandenburg](https://www.stallbuch-app.de/tierseuchenkasse/brandenburg/): Stichtag 3. Januar. Meldung bis 15. Januar mit geschätztem Jahreshöchstbestand, online oder per Formular. Hühner, Puten, Enten, Gänse (nicht Tauben, Wachteln). Grundbeitrag 7 €.
+- [Bremen](https://www.stallbuch-app.de/tierseuchenkasse/bremen/): Stichtag 3. Januar. Meldung innerhalb von zwei Wochen (bis 17. Januar), online oder per Meldekarte. Tauben 2026 beitragsfrei. Mindestbeitrag 12,50 €.
+- [Hamburg](https://www.stallbuch-app.de/tierseuchenkasse/hamburg/): Stichtag keiner. Geflügel steht nicht auf der Liste der Tierseuchenkasse (bitte bestätigen lassen). Die Anmeldung der Haltung beim Veterinäramt ist trotzdem Pflicht.
+- [Hessen](https://www.stallbuch-app.de/tierseuchenkasse/hessen/): Stichtag 1. Januar. Auch Hobbyhalter, einschließlich Enten, Gänse, Tauben und Wachteln. Meldung bis 15. Januar, online oder per Formular. Mindestbeitrag 5 €.
+- [Mecklenburg-Vorpommern](https://www.stallbuch-app.de/tierseuchenkasse/mecklenburg-vorpommern/): Stichtag 3. Januar. Meldung innerhalb von zwei Wochen (Satzung 17., FAQ 20. Januar – im Zweifel früher melden), online oder per Meldekarte. Tauben nicht. Mindestbeitrag 15 €.
+- [Niedersachsen](https://www.stallbuch-app.de/tierseuchenkasse/niedersachsen/): Stichtag 3. Januar. Meldepflicht ab dem ersten Tier, Meldung bis 17. Januar online (Meine TSK) oder per Meldekarte. Tauben 2026 beitragsfrei. Mindestbeitrag 12,50 €.
+- [Nordrhein-Westfalen](https://www.stallbuch-app.de/tierseuchenkasse/nordrhein-westfalen/): Stichtag kein Stichtag. Gemeldet wird der geplante Jahreshöchstbestand bis 31. Januar über tierzahlenmeldung-nrw.de oder per Meldebogen. Auch Tauben und Wachteln. Pauschal 10 € für 1–333 Hennen.
+- [Rheinland-Pfalz](https://www.stallbuch-app.de/tierseuchenkasse/rheinland-pfalz/): Stichtag 1. Januar. Geflügel seit 2025 beitragspflichtig. Meldung bis 15. Februar über das webTSK-Konto oder per Meldebogen. Pauschal 30 € je Bestand mit 1–25 Tieren.
+- [Saarland](https://www.stallbuch-app.de/tierseuchenkasse/saarland/): Stichtag 1. Januar. Melden ja, bis 25 Tiere kein Geflügelbeitrag. Meldung bis 15. Januar, online, per Post oder QR-Code.
+- [Sachsen](https://www.stallbuch-app.de/tierseuchenkasse/sachsen/): Stichtag 1. Januar. Meldepflicht ab dem ersten Tier (Hühner, Puten, Enten, Gänse; nicht Tauben, Wachteln). Meldung bis 15. Januar, online, per Formular oder QR-Code. Mindestbeitrag 5,20 €.
+- [Sachsen-Anhalt](https://www.stallbuch-app.de/tierseuchenkasse/sachsen-anhalt/): Stichtag 3. Januar. Meldung innerhalb von zwei Wochen (etwa 17. Januar), online mit PIN oder per Meldebogen. Auch Wachteln. Mindestbeitrag 6 € (entfällt bei voll elektronischer Teilnahme).
+- [Schleswig-Holstein](https://www.stallbuch-app.de/tierseuchenkasse/schleswig-holstein/): Stichtag im Herbst (2025: 28. September). Kein fester Januar-Termin: Stichtag und Frist legt die jährliche Verordnung fest (2025: 28.09., Meldung bis 15.10.). Datum bitte selbst eintragen. Auch Tauben und Wachteln. Grundbeitrag 24,50 €.
+- [Thüringen](https://www.stallbuch-app.de/tierseuchenkasse/thueringen/): Stichtag 3. Januar. Meldepflicht ab dem ersten Tier, Meldung innerhalb von 14 Tagen (etwa 17. Januar), über WebTSK, Meldebogen oder QR-Code. Mindestbeitrag 18 €.
+
+## Checklisten
+- [Start-Checkliste](https://www.stallbuch-app.de/checklisten/huehnerhaltung-start-checkliste/)
+- [Winter](https://www.stallbuch-app.de/checklisten/huehner-winter-checkliste/)
+- [Sommer und Hitze](https://www.stallbuch-app.de/checklisten/huehner-hitze-sommer-checkliste/)
+- [Mauser](https://www.stallbuch-app.de/checklisten/huehner-mauser-checkliste/)
+- [Neue Tiere eingliedern](https://www.stallbuch-app.de/checklisten/neue-huehner-eingliedern-checkliste/)
+
+## App
+- Stallbuch für Android und iPhone (Start Januar 2027): Bestandsregister, PDF fürs Veterinäramt, Fristen für ND-Impfung und Tierseuchenkasse, Behandlungsbuch mit Wartezeit-Countdown, Eierzähler, Brutplaner, Eierverkauf, Kosten pro Ei, Urlaubsvertretung. Kostenlos nutzbar (bis 5 Tiere), Pro 14,99 € pro Jahr. Offline, ohne Konto, ohne Werbung.
