@@ -48,4 +48,4 @@
 - [Neue Tiere eingliedern](https://www.stallbuch-app.de/checklisten/neue-huehner-eingliedern-checkliste/)
 
 ## App
-- Stallbuch für Android und iPhone (Start Januar 2027): Bestandsregister, PDF fürs Veterinäramt, Fristen für ND-Impfung und Tierseuchenkasse, Behandlungsbuch mit Wartezeit-Countdown, Eierzähler, Brutplaner, Eierverkauf, Kosten pro Ei, Urlaubsvertretung. Kostenlos nutzbar (bis 5 Tiere), Pro 14,99 € pro Jahr. Offline, ohne Konto, ohne Werbung.
+- Stallbuch für Android (bei Google Play: https://play.google.com/store/apps/details?id=com.holderied.stallbuch, iPhone folgt): Bestandsregister, PDF fürs Veterinäramt, Fristen für ND-Impfung und Tierseuchenkasse, Behandlungsbuch mit Wartezeit-Countdown, Eierzähler, Brutplaner, Eierverkauf, Kosten pro Ei, Urlaubsvertretung. Kostenlos nutzbar (bis 5 Tiere), Pro 14,99 € pro Jahr. Offline, ohne Konto, ohne Werbung.
